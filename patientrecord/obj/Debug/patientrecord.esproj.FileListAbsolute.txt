@@ -1,0 +1,2 @@
+C:\Users\jamyp\OneDrive\Desktop\patientRecord\patientRecord\patientRecord\obj\Debug\patientrecord.esproj.SuggestedBindingRedirects.cache
+C:\Users\jamyp\OneDrive\Desktop\patientRecord\patientRecord\patientRecord\obj\Debug\patientrecord.esproj.CoreCompileInputs.cache
